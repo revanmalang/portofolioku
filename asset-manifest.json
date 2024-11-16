@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portofolioku/static/css/main.039bf95e.css",
+    "main.js": "/portofolioku/static/js/main.dd1a05a8.js",
+    "static/media/MochRevanoBudiansyah_CV.pdf": "/portofolioku/static/media/MochRevanoBudiansyah_CV.d3777ba866b83215048d.pdf",
+    "static/media/Hello.gif": "/portofolioku/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/repano.png": "/portofolioku/static/media/repano.4afd2af8edb2a80191fd.png",
+    "static/media/illustration.svg": "/portofolioku/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/portofolioku/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/node-icon.svg": "/portofolioku/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/portofolioku/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/whatsapp.svg": "/portofolioku/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/bootstrap-icon.svg": "/portofolioku/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/portofolioku/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/portofolioku/index.html",
+    "static/media/telegram.svg": "/portofolioku/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
+    "static/media/instagram.svg": "/portofolioku/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/phone-icon.svg": "/portofolioku/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/shopify.svg": "/portofolioku/static/media/shopify.162913e43c02c125fd0720d80fc0dba3.svg",
+    "static/media/github.svg": "/portofolioku/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/portofolioku/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/external-link.svg": "/portofolioku/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
+    "static/media/html-icon.svg": "/portofolioku/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/wordpress.svg": "/portofolioku/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
+    "static/media/css-icon.svg": "/portofolioku/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/linkedin.svg": "/portofolioku/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/portofolioku/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/portofolioku/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "main.039bf95e.css.map": "/portofolioku/static/css/main.039bf95e.css.map",
+    "main.dd1a05a8.js.map": "/portofolioku/static/js/main.dd1a05a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.dd1a05a8.js"
+  ]
+}
